@@ -8,3 +8,7 @@ log/*
 measurement/*
 pkg/*
 rdoc/*
+
+# Editor
+.idea
+*.iml
